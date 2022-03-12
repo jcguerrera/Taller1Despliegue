@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 //App para hallar el cuadrado y el cubo de un número
-//Se lanza y se ejecuta con http://localhost:8080 con aws
+//Se lanza y se ejecuta con http://localhost:8080 con aws y pipeline
 @SpringBootApplication
 @RestController
 public class ProtobootappApplication {
